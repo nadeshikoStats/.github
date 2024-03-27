@@ -1,5 +1,6 @@
+![nadeshiko logo](https://github.com/NadeshikoStats/.github/assets/96643991/df647b6c-7d07-4875-8e80-41fb5e26bc24)
 ## nadeshiko – a beautiful Hypixel stats viewer
-[nadeshiko](https://nadeshiko.io) is a Hypixel stats tracker that has support for super cute cards that you can add anywhere – even to your Hypixel signature!
+[nadeshiko](https://nadeshiko.io) is an [open-source](https://www.redhat.com/en/topics/open-source/what-is-open-source) Hypixel stats tracker that has support for super cute cards that you can add anywhere – even to your Hypixel signature!
 
 <img src="https://raw.githubusercontent.com/NadeshikoStats/nadeshiko.io/main/public/readme/duels.png">
 
