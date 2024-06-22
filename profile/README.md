@@ -4,8 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/NadeshikoStats/nadeshiko.io/main/public/readme/duels.png" alt="An image of a card showing a player's Hypixel duels stats.">
 
-![An image of the Hypixel player's network page.](https://github.com/NadeshikoStats/.github/assets/96643991/8aac8ad8-3137-4031-b381-4c034695ae71)
-
+![An image of a Hypixel player's network page, showing generic Hypixel player stats like network level, karma, and achievement points in an aesthetically pleasing format.](https://github.com/NadeshikoStats/.github/assets/96643991/5bd5e01b-02ca-4ecc-86aa-d62942c7a561)
 
 We're still working on nadeshiko, but check back often to see what we're up to!
 
