@@ -1,11 +1,16 @@
-![nadeshiko logo](https://nadeshiko.io/img/banner.png)
+<a href="https://nadeshiko.io" target="_blank">![nadeshiko logo](https://nadeshiko.io/img/banner.png)</a>
 ## nadeshiko – a beautiful Hypixel stats viewer
-[nadeshiko](https://nadeshiko.io) is an [open-source](https://www.redhat.com/en/topics/open-source/what-is-open-source) Hypixel stats tracker that has support for super cute cards that you can add anywhere – even to your Hypixel signature!
+[nadeshiko](https://nadeshiko.io) is a [free](https://en.wikipedia.org/wiki/Free_software) and [open-source](https://en.wikipedia.org/wiki/Open-source_software) Hypixel stats tracker with super cute cards that you can show off anywhere – even your Hypixel signature! nadeshiko has support to view a player's overall Hypixel stats, guild stats, achievements, and quests.
 
-<img src="https://raw.githubusercontent.com/NadeshikoStats/nadeshiko.io/main/public/readme/duels.png" alt="An image of a card showing a player's Hypixel duels stats.">
 
-![An image of a Hypixel player's network page, showing generic Hypixel player stats like network level, karma, and achievement points in an aesthetically pleasing format.](https://github.com/NadeshikoStats/.github/assets/96643991/5bd5e01b-02ca-4ecc-86aa-d62942c7a561)
+<a href="https://nadeshiko.io" target="_blank">![A card showing the SkyBlock stats of a player named "fishergirlana". The player is high-levelled and has several maxed-out skills, such as Fishing, Farming, and Mining.](https://github.com/user-attachments/assets/68a634c1-c499-4e7d-9b6e-38430ff94595)</a>
 
-We're still working on nadeshiko, but check back often to see what we're up to!
+<a href="https://nadeshiko.io/player/oJakey" target="_blank">![A Hypixel player's network page, showing generic Hypixel player stats like network level, karma, and achievement points in an aesthetically pleasing, easy-to-understand format.](https://github.com/user-attachments/assets/80ea5b30-b38b-421e-8f86-21b035a38f63)</a>
 
-Made with ♥&#xFE0E; by <a href="https://github.com/niqumu" target="_blank">kittycatchloe</a> and <a href="https://brookie.dev" target="_blank">BrookeAFK</a>
+<a href="https://nadeshiko.io/achievements/adjective_n0un/duels" target="_blank">![A player's achievement stats for the Duels minigame. The website shows which achievements the player has unlocked, both tiered and one-time achievements.](https://github.com/user-attachments/assets/0f456fdb-9f72-4c5b-9c2c-0392bd786c03)</a>
+
+<a href="https://nadeshiko.io/leaderboards?leaderboard=SKYWARS_LUCKY_BLOCK_WINS" target="_blank">![The leaderboards on nadeshiko, showing an array of games and modes to choose from. The screenshot shows the leaderboard for Lucky Block wins in SkyWars currently selected.](https://github.com/user-attachments/assets/098e8dd2-13fb-4a5d-ba91-ac4a5c5f75df)</a>
+
+Check out the [frontend](https://github.com/nadeshikostats/nadeshiko.io) and the [backend](https://github.com/nadeshikostats/nadeshikobackend)!
+
+Made with ♥&#xFE0E; by <a href="https://brookie.dev" target="_blank">BrookeAFK</a> and <a href="https://niqumu.dev" target="_blank">niqumu</a>
