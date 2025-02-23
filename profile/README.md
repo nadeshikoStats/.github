@@ -1,6 +1,6 @@
 <a href="https://nadeshiko.io" target="_blank">![nadeshiko logo](https://nadeshiko.io/img/banner.png)</a>
 ## nadeshiko – a beautiful Hypixel stats viewer
-[nadeshiko](https://nadeshiko.io) is a [free](https://en.wikipedia.org/wiki/Free_software) and [open-source](https://en.wikipedia.org/wiki/Open-source_software) Hypixel stats tracker with super cute cards that you can show off anywhere – even your Hypixel signature! nadeshiko has support to view a player's overall Hypixel stats, guild stats, achievements, and quests.
+[nadeshiko](https://nadeshiko.io) is a [free](https://en.wikipedia.org/wiki/Free_software) and [open-source](https://en.wikipedia.org/wiki/Open-source_software) Hypixel stats tracker with super cute cards that you can show off anywhere – even in your Hypixel signature! nadeshiko supports viewing a player's overall Hypixel stats, guild info, achievements, and quests.
 
 
 <a href="https://nadeshiko.io" target="_blank">![A card showing the SkyBlock stats of a player named "fishergirlana". The player is high-levelled and has several maxed-out skills, such as Fishing, Farming, and Mining.](https://github.com/user-attachments/assets/68a634c1-c499-4e7d-9b6e-38430ff94595)</a>
